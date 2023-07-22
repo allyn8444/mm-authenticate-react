@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+# Integrating a simple React dapp with MetaMask. (React + TypeScript + Vite)
+
+Followed Metamask.io Documentation:
+- [React dapp with MetaMask](https://docs.metamask.io/wallet/tutorials/react-dapp-local-state/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
